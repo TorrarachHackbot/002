@@ -1013,7 +1013,7 @@ def bot(op):
 
 
  
-            elif msg.text == ["Ginfo","กลุ่ม":
+            elif msg.text in ["Ginfo","กลุ่ม"]:
                 if msg.toType == 2:
                     ginfo = vipro.getGroup(msg.to)
                     try:
@@ -1922,7 +1922,7 @@ def bot(op):
                 vipro.sendMessage(msg)
                 
                  
-            elif ["tagall","tag all","Tag all","Tag all","มอง"] == msg.text.lower():
+            elif msg.text in ["tagall","tag all","Tag all","Tag all","มอง"]:
                  group = vipro.getGroup(msg.to)
                  nama = [contact.mid for contact in group.members]
                  nm1, nm2, nm3, nm4, nm5, jml = [], [], [], [], [], len(nama)
