@@ -50,13 +50,13 @@ selfMessage ="""
 ╠➩〘Miclist〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║  ️🐯 line.me/ti/p/I_s1In-sUn 🐯️
+║  ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯️
 ╚═════════════════════════
 """
 
 botMessage ="""
 ╔═════════════════════════
-║             🐯 B O T 🐯
+║             🐯हईB O Tईह🐯
 ╠═════════════════════════
 ╠➩〘Absen〙
 ╠➩〘Respon〙
@@ -70,13 +70,13 @@ botMessage ="""
 ╠➩〘Bot on/off〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║  ️🐯 line.me/ti/p/I_s1In-sUn 🐯
+║  ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯
 ╚═════════════════════════
 """
 
 mediaMessage ="""
 ╔═════════════════════════
-║           🐯 M E D I A 🐯
+║           🐯हईM E D I Aईह🐯
 ╠═════════════════════════
 ╠➩〘Gift〙
 ╠➩〘Giftbycontact〙
@@ -109,13 +109,13 @@ mediaMessage ="""
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║  ️🐯 line.me/ti/p/I_s1In-sUn 🐯️
+║  ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯️
 ╚═════════════════════════
 """
 
 groupMessage ="""
 ╔═════════════════════════
-║           🐯 G R O U P 🐯
+║           🐯हईG R O U Pईह🐯
 ╠═════════════════════════
 ╠➩〘Welcome〙
 ╠➩〘Say welcome〙
@@ -144,14 +144,14 @@ groupMessage ="""
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║  ️🐯 line.me/ti/p/I_s1In-sUn 🐯
+║  ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯
 ╚═════════════════════════
 """
 tjia="u820d01252fdcf2a539fa194bcfc3400e"
 
 setMessage ="""
 ╔═════════════════════════
-║              🐯 S E T 🐯
+║              🐯हईS E Tईह🐯
 ╠═════════════════════════
 ╠➩〘Notif on/off〙
 ╠➩〘Mimic on/off〙
@@ -163,13 +163,13 @@ setMessage ="""
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║  ️🐯 line.me/ti/p/I_s1In-sUn 🐯️
+║  ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯️
 ╚═════════════════════════
 """
 
 creatorMessage ="""
 ╔═════════════════════════
-║         🐯 C R E A T O R 🐯
+║         🐯हईC R E A T O Rईह🐯
 ╠═════════════════════════
 ╠➩〘Crash〙
 ╠➩〘Kickall〙
@@ -182,13 +182,13 @@ creatorMessage ="""
 ╠➩〘Turn off〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║   ️🐯 line.me/ti/p/I_s1In-sUn 🐯️
+║   ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯️
 ╚═════════════════════════
 """
 
 adminMessage ="""
 ╔═════════════════════════
-║            🐯 A D M I N 🐯
+║            🐯हईA D M I Nईह🐯
 ╠═════════════════════════
 ╠➩〘Allprotect on/off〙
 ╠➩〘Ban〙
@@ -223,13 +223,13 @@ adminMessage ="""
 ╠➩〘Responkick on/off〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║   ️🐯 line.me/ti/p/I_s1In-sUn 🐯️
+║   ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯️
 ╚═════════════════════════
 """
 
 helpMessage ="""
 ╔═════════════════════════
-║              🐯 H E L P 🐯
+║              🐯हईH E L Pईह🐯
 ╠═════════════════════════
 ╠➩〘Help self〙
 ╠➩〘Help bot〙
@@ -244,7 +244,7 @@ helpMessage ="""
 ╠➩〘Status〙
 ╠═════════════════════════
 ║             🐯हईທຮຮๅજईह🐯
-║   ️🐯 line.me/ti/p/I_s1In-sUn 🐯️
+║   ️🐯हईline.me/ti/p/I_s1In-sUnईह🐯️
 ╚═════════════════════════
 """
 
@@ -286,7 +286,7 @@ wait = {
     'sticker':False,  
     'timeline':True,
     "Timeline":True,
-    "comment":"[ไลค์อัตโนมัติ 🐯हईທຮຮๅજईह🐯\nต้องการติดต่อโปรดเพิ่มเพื่อนจากลิ้งค์นี้ :🐯 line.me/ti/p/I_s1In-sUn 🐯",    
+    "comment":"[ไลค์อัตโนมัติ 🐯हईທຮຮๅજईह🐯\nต้องการติดต่อโปรดเพิ่มเพื่อนจากลิ้งค์นี้ :🐯हईline.me/ti/p/I_s1In-sUnईह🐯",    
     "commentOn":True,
     "commentBlack":{},
     "message":"ขอบคุณที่เพิ่มเป็นเพื่อน 🐯हईທຮຮๅજईह🐯\n",    
@@ -1013,7 +1013,7 @@ def bot(op):
 
 
  
-            elif msg.text == "Ginfo":
+            elif msg.text == ["Ginfo","กลุ่ม":
                 if msg.toType == 2:
                     ginfo = vipro.getGroup(msg.to)
                     try:
@@ -1596,39 +1596,39 @@ def bot(op):
                     vipro.sendText(msg.to, "Heh Belom Di Set")                         
 
 
-            elif msg.text in ["Status"]:
+            elif msg.text in ["ตั้งค่า"]:
                 md = ""
-		if wait["Sambutan"] == True: md+="╠➩✔️ Sambutan : On\n"
-		else:md+="╠➩❌ Sambutan : Off\n"
-		if wait["AutoJoin"] == True: md+="╠➩✔️ Auto Join : On\n"
-                else: md +="╠➩❌ Auto Join : Off\n"
-		if wait["AutoJoinCancel"] == True: md+="╠➩✔️ Auto Join Cancel : On\n"
-                else: md +="╠➩❌ Auto Join Cancel : Off\n"                
-		if wait["Contact"] == True: md+="╠➩✔️ Info Contact : On\n"
-		else: md+="╠➩❌ Info Contact : Off\n"
-                if wait["AutoCancel"] == True:md+="╠➩✔️ Auto Cancel : On\n"
-                else: md+= "╠➩❌ Auto Cancel : Off\n"
-                if wait["inviteprotect"] == True:md+="╠➩✔️ Invite Protect : On\n"
-                else: md+= "╠➩❌ Invite Protect : Off\n"                
-		if wait["Qr"] == True: md+="╠➩✔️ Qr Protect : On\n"
-		else:md+="╠➩❌ Qr Protect : Off\n"
-		if wait["AutoKick"] == True: md+="╠➩✔️ Auto Kick : On\n"
-		else:md+="╠➩❌ Auto Kick : Off\n"
-		if wait["alwaysRead"] == True: md+="╠➩✔️ Always Read : On\n"
-		else:md+="╠➩❌ Always Read: Off\n"
-		if wait["detectMention"] == True: md+="╠➩✔️ Auto Respon1 : On\n"
-		else:md+="╠➩❌ Auto Respon1 : Off\n"		
-		if wait["detectMention2"] == True: md+="╠➩✔️ Auto Respon2 : On\n"
-		else:md+="╠➩❌ Auto Respon2 : Off\n"	
-		if wait["detectMention3"] == True: md+="╠➩✔️ Auto Respon3 : On\n"
-		else:md+="╠➩❌ Auto Respon3 : Off\n"			
-		if wait["kickMention"] == True: md+="╠➩✔️ Auto Respon Kick : On\n"
-		else:md+="╠➩❌ Auto Respon Kick : Off\n"				
-		if wait["Sider"] == True: md+="╠➩✔️ Auto Sider : On\n"
-		else:md+="╠➩❌ Auto Sider: Off\n"	
-		if wait["Simi"] == True: md+="╠➩✔️ Simisimi : On\n"
-		else:md+="╠➩❌ Simisimi: Off\n"		
-                vipro.sendText(msg.to,"╔═════════════════════════\n""║           ☆☞ S T A T U S ☜☆\n""╠═════════════════════════\n"+md+"╚═════════════════════════")
+		if wait["Sambutan"] == True: md+="╠➩✔️ ข้อความต้อนรับ : เปิด\n"
+		else:md+="╠➩❌ ข้อความต้อนรับ : ปิด\n"
+		if wait["AutoJoin"] == True: md+="╠➩✔️ เข้าร่วมกลุ่มอัตโนมัติ : เปิด\n"
+                else: md +="╠➩❌ เข้าร่วมกลุ่มอัตโนมัติ : ปิด\n"
+		if wait["AutoJoinCancel"] == True: md+="╠➩✔️ ยกเลิกเข้าร่วมกลุ่มอัตโนมัติ : เปิด\n"
+                else: md +="╠➩❌ ยกเลิกเข้าร่วมกลุ่มอัตโนมัติ : ปิด\n"                
+		if wait["Contact"] == True: md+="╠➩✔️ ส่งข้อมูลผู้ติดต่อ : เปิด\n"
+		else: md+="╠➩❌ ส่งข้อมูลผู้ติดต่อ : ปิด\n"
+                if wait["AutoCancel"] == True:md+="╠➩✔️ ยกเลิกอัติโนมัติ : เปิด\n"
+                else: md+= "╠➩❌ ยกเลิกอัติโนมัติ : ปิด\n"
+                if wait["inviteprotect"] == True:md+="╠➩✔️ ป้องกันการเชิญ : เปิด\n"
+                else: md+= "╠➩❌ ป้องกันการเชิญ : ปิด\n"                
+		if wait["Qr"] == True: md+="╠➩✔️ ป้องกันลิ้งค์กลุ่ม : เปิด\n"
+		else:md+="╠➩❌ ป้องกันลิ้งค์กลุ่ม : ปิด\n"
+		if wait["AutoKick"] == True: md+="╠➩✔️ เตะอัตโนมัติ : เปิด\n"
+		else:md+="╠➩❌ เตะอัตโนมัติ : ปิด\n"
+		if wait["alwaysRead"] == True: md+="╠➩✔️ อ่านข้อความเสมอ : เปิด\n"
+		else:md+="╠➩❌ อ่านข้อความเสมอ: ปิด\n"
+		if wait["detectMention"] == True: md+="╠➩✔️ Auto Respon1 : เปิด\n"
+		else:md+="╠➩❌ Auto Respon1 : ปิด\n"		
+		if wait["detectMention2"] == True: md+="╠➩✔️ Auto Respon2 : เปิด\n"
+		else:md+="╠➩❌ Auto Respon2 : ปิด\n"	
+		if wait["detectMention3"] == True: md+="╠➩✔️ Auto Respon3 : เปิด\n"
+		else:md+="╠➩❌ Auto Respon3 : ปิด\n"			
+		if wait["kickMention"] == True: md+="╠➩✔️ ข้อความอัติโนมัติเมื่อถูกเตะ : เปิด\n"
+		else:md+="╠➩❌ ข้อความอัติโนมัติเมื่อถูกเตะ : ปิด\n"				
+		if wait["Sider"] == True: md+="╠➩✔️ Auto Sider : เปิด\n"
+		else:md+="╠➩❌ Auto Sider: ปิด\n"	
+		if wait["Simi"] == True: md+="╠➩✔️ Simisimi : เปิด\n"
+		else:md+="╠➩❌ Simisimi: ปิด\n"		
+                vipro.sendText(msg.to,"╔═════════════════════════\n""║           🐯हईการตั้งค่าบอทईह🐯\n""╠═════════════════════════\n"+md+"╚═════════════════════════")
 
 
             elif msg.text in ["Gift","gift"]:
@@ -1658,7 +1658,7 @@ def bot(op):
                        else:
                            for target in targets:
                                 try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
+                                    vipro.sendText(msg.to,_name + " โปรดเช็คของขวัญในแชทส่วนตัวของคุณ")
                                     msg.contentType = 9
                                     msg.contentMetadata= {'PRDTYPE': 'STICKER',
                                                          'STKVER': '1',
@@ -1688,7 +1688,7 @@ def bot(op):
                        else:
                            for target in targets:
                                 try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
+                                    vipro.sendText(msg.to,_name + " โปรดเช็คของขวัญในแชทส่วนตัวของคุณ")
                                     msg.contentType = 9
                                     msg.contentMetadata= {'PRDTYPE': 'STICKER',
                                                          'STKVER': '1',
@@ -1718,7 +1718,7 @@ def bot(op):
                        else:
                            for target in targets:
                                 try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
+                                    vipro.sendText(msg.to,_name + " โปรดเช็คของขวัญในแชทส่วนตัวของคุณ")
                                     msg.contentType = 9
                                     msg.contentMetadata= {'PRDTYPE': 'STICKER',
                                                          'STKVER': '1',
@@ -1748,192 +1748,12 @@ def bot(op):
                        else:
                            for target in targets:
                                 try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
+                                    vipro.sendText(msg.to,_name + " โปรดเช็คของขวัญในแชทส่วนตัวของคุณ")
                                     msg.contentType = 9
                                     msg.contentMetadata= {'PRDTYPE': 'STICKER',
                                                          'STKVER': '1',
                                                          'MSGTPL': '4',
                                                          'STKPKGID': '1329191'}
-                                    msg.to = target
-                                    msg.text = None
-                                    vipro.sendMessage(msg)
-                                except:
-                                    msg.contentMetadata = {'mid': target}
-
-            elif "Gift5 " in msg.text:
-                       msg.contentType = 13
-                       nk0 = msg.text.replace("Gift5 ","")
-                       nk1 = nk0.lstrip()
-                       nk2 = nk1.replace("@","")
-                       nk3 = nk2.rstrip()
-                       _name = nk3
-                       gs = vipro.getGroup(msg.to)
-                       targets = []
-                       for s in gs.members:
-                           if _name in s.displayName:
-                              targets.append(s.mid)
-                       if targets == []:
-                           sendMessage(msg.to,"user does not exist")
-                           pass
-                       else:
-                           for target in targets:
-                                try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
-                                    msg.contentType = 9
-                                    msg.contentMetadata= {'PRDTYPE': 'STICKER',
-                                                         'STKVER': '1',
-                                                         'MSGTPL': '1',
-                                                         'STKPKGID': '9057'}
-                                    msg.to = target
-                                    msg.text = None
-                                    vipro.sendMessage(msg)
-                                except:
-                                    msg.contentMetadata = {'mid': target}
-
-            elif "Gift6 " in msg.text:
-                       msg.contentType = 13
-                       nk0 = msg.text.replace("Gift6 ","")
-                       nk1 = nk0.lstrip()
-                       nk2 = nk1.replace("@","")
-                       nk3 = nk2.rstrip()
-                       _name = nk3
-                       gs = vipro.getGroup(msg.to)
-                       targets = []
-                       for s in gs.members:
-                           if _name in s.displayName:
-                              targets.append(s.mid)
-                       if targets == []:
-                           sendMessage(msg.to,"user does not exist")
-                           pass
-                       else:
-                           for target in targets:
-                                try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
-                                    msg.contentType = 9
-                                    msg.contentMetadata= {'PRDTYPE': 'STICKER',
-                                                         'STKVER': '1',
-                                                         'MSGTPL': '2',
-                                                         'STKPKGID': '9167'}
-                                    msg.to = target
-                                    msg.text = None
-                                    vipro.sendMessage(msg)
-                                except:
-                                    msg.contentMetadata = {'mid': target}
-
-            elif "Gift7 " in msg.text:
-                       msg.contentType = 13
-                       nk0 = msg.text.replace("Gift7 ","")
-                       nk1 = nk0.lstrip()
-                       nk2 = nk1.replace("@","")
-                       nk3 = nk2.rstrip()
-                       _name = nk3
-                       gs = vipro.getGroup(msg.to)
-                       targets = []
-                       for s in gs.members:
-                           if _name in s.displayName:
-                              targets.append(s.mid)
-                       if targets == []:
-                           sendMessage(msg.to,"user does not exist")
-                           pass
-                       else:
-                           for target in targets:
-                                try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
-                                    msg.contentType = 9
-                                    msg.contentMetadata= {'PRDTYPE': 'STICKER',
-                                                         'STKVER': '1',
-                                                         'MSGTPL': '3',
-                                                         'STKPKGID': '7334'}
-                                    msg.to = target
-                                    msg.text = None
-                                    vipro.sendMessage(msg)
-                                except:
-                                    msg.contentMetadata = {'mid': target}
-
-            elif "Gift8 " in msg.text:
-                       msg.contentType = 13
-                       nk0 = msg.text.replace("Gift8 ","")
-                       nk1 = nk0.lstrip()
-                       nk2 = nk1.replace("@","")
-                       nk3 = nk2.rstrip()
-                       _name = nk3
-                       gs = vipro.getGroup(msg.to)
-                       targets = []
-                       for s in gs.members:
-                           if _name in s.displayName:
-                              targets.append(s.mid)
-                       if targets == []:
-                           sendMessage(msg.to,"user does not exist")
-                           pass
-                       else:
-                           for target in targets:
-                                try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
-                                    msg.contentType = 9
-                                    msg.contentMetadata= {'PRDTYPE': 'STICKER',
-                                                         'STKVER': '1',
-                                                         'MSGTPL': '1',
-                                                         'STKPKGID': '1380280'}
-                                    msg.to = target
-                                    msg.text = None
-                                    vipro.sendMessage(msg)
-                                except:
-                                    msg.contentMetadata = {'mid': target}
-
-            elif "Gift9 " in msg.text:
-                       msg.contentType = 13
-                       nk0 = msg.text.replace("Gift9 ","")
-                       nk1 = nk0.lstrip()
-                       nk2 = nk1.replace("@","")
-                       nk3 = nk2.rstrip()
-                       _name = nk3
-                       gs = vipro.getGroup(msg.to)
-                       targets = []
-                       for s in gs.members:
-                           if _name in s.displayName:
-                              targets.append(s.mid)
-                       if targets == []:
-                           sendMessage(msg.to,"user does not exist")
-                           pass
-                       else:
-                           for target in targets:
-                                try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
-                                    msg.contentType = 9
-                                    msg.contentMetadata= {'PRDTYPE': 'STICKER',
-                                                         'STKVER': '1',
-                                                         'MSGTPL': '4',
-                                                         'STKPKGID': '1405277'}
-                                    msg.to = target
-                                    msg.text = None
-                                    vipro.sendMessage(msg)
-                                except:
-                                    msg.contentMetadata = {'mid': target}
-
-            elif "Gift10 " in msg.text:
-                       msg.contentType = 13
-                       nk0 = msg.text.replace("Gift10 ","")
-                       nk1 = nk0.lstrip()
-                       nk2 = nk1.replace("@","")
-                       nk3 = nk2.rstrip()
-                       _name = nk3
-                       gs = vipro.getGroup(msg.to)
-                       targets = []
-                       for s in gs.members:
-                           if _name in s.displayName:
-                              targets.append(s.mid)
-                       if targets == []:
-                           sendMessage(msg.to,"user does not exist")
-                           pass
-                       else:
-                           for target in targets:
-                                try:
-                                    vipro.sendText(msg.to,_name + " Check Your Gift")
-                                    msg.contentType = 9
-                                    msg.contentMetadata= {'PRDTYPE': 'STICKER',
-                                                         'STKVER': '1',
-                                                         'MSGTPL': '1',
-                                                         'STKPKGID': '1296261'}
                                     msg.to = target
                                     msg.text = None
                                     vipro.sendMessage(msg)
@@ -2101,67 +1921,8 @@ def bot(op):
                 msg.text = None
                 vipro.sendMessage(msg)
                 
-
-            elif "tag all" == msg.text.lower():
-                 group = vipro.getGroup(msg.to)
-                 nama = [contact.mid for contact in group.members]
-                 nm1, nm2, nm3, nm4, nm5, jml = [], [], [], [], [], len(nama)
-                 if jml <= 100:
-                    summon(msg.to, nama)
-                 if jml > 100 and jml < 200:
-                    for i in range(0, 99):
-                        nm1 += [nama[i]]
-                    summon(msg.to, nm1)
-                    for j in range(100, len(nama)-1): 
-                        nm2 += [nama[j]]
-                    summon(msg.to, nm2)                 
-                 if jml > 200 and jml < 300:
-                    for i in range(0, 99):
-                        nm1 += [nama[i]]
-                    summon(msg.to, nm1)
-                    for j in range(100, 199):
-                        nm2 += [nama[j]]
-                    summon(msg.to, nm2)
-                    for k in range(200, len(nama)-1):
-                        nm3 += [nama[k]]
-                    summon(msg.to, nm3)
-                 if jml > 300  and jml < 400:
-                    for i in range(0, 99):
-                        nm1 += [nama[i]]
-                    summon(msg.to, nm1)
-                    for j in range(100, 199):
-                        nm2 += [nama[j]]
-                    summon(msg.to, nm2)
-                    for k in range(200, 299):
-                        nm3 += [nama[k]]
-                    summon(msg.to, nm3)
-                    for l in range(300, len(nama)-1):
-                    	nm4 += [nama[l]]
-                    summon(msg.to, nm4)
-                 if jml > 400  and jml < 500:
-                    for i in range(0, 99):
-                        nm1 += [nama[i]]
-                    summon(msg.to, nm1)
-                    for j in range(100, 199):
-                        nm2 += [nama[j]]
-                    summon(msg.to, nm2)
-                    for k in range(200, 299):
-                        nm3 += [nama[k]]
-                    summon(msg.to, nm3)
-                    for l in range(300, 399):
-                        nm4 += [nama[l]]
-                    summon(msg.to, nm4)
-                    for m in range(400, len(nama)-1):
-                        nm5 += [nama[m]]
-                    summon(msg.to, nm5)
-                 if jml > 500:
-                     print "Terlalu Banyak Men 500+"
-                 cnt = Message()
-                 cnt.text = "Jumlah:\n" + str(jml) +  " Members"
-                 cnt.to = msg.to
-                 vipro.sendMessage(cnt)
                  
-            elif "tagall" == msg.text.lower():
+            elif ["tagall","tag all","Tag all","Tag all","มอง"] == msg.text.lower():
                  group = vipro.getGroup(msg.to)
                  nama = [contact.mid for contact in group.members]
                  nm1, nm2, nm3, nm4, nm5, jml = [], [], [], [], [], len(nama)
@@ -2214,9 +1975,9 @@ def bot(op):
                         nm5 += [nama[m]]
                     summon(msg.to, nm5)
                  if jml > 500:
-                     print "Terlalu Banyak Men 500+"
+                     print "สมาชิกเต็ม 500+"
                  cnt = Message()
-                 cnt.text = "Jumlah:\n" + str(jml) +  " Members"
+                 cnt.text = "แท็กเรียกสมาชิกกลุ่มทั้งหมด:\n" + str(jml) +  " คน"
                  cnt.to = msg.to
                  vipro.sendMessage(cnt)                 
 
