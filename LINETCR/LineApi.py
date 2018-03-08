@@ -501,9 +501,9 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("===============[Vipro_Bot]================")
-      print("        Thanks for TCR and my friend")
-      print("===============[© By_Vipro]================")
+      print("===============[TEAM HACK BOT]===============")
+      print(" Thanks for TEAM HACK BOT and my 🐯हईທຮຮๅજईह🐯")
+      print("================[🐯हईທຮຮๅજईह🐯]================")
       print("mid -> " + prof.mid)
       print("name -> " + prof.displayName)
       print("authToken -> " + self.authToken)
